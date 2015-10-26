@@ -8,7 +8,7 @@
 
 - Mapping	movement	qualities	to	visual	ones.
 
-####Example improv:	Create	a	ground	painting.
+#####Example improv:	Create	a	ground	painting.
 
 ####Assignments:
 
@@ -16,7 +16,7 @@
 
 - Code:	Create	3	different	paintings.
 
-###Weeks 3+4:	Shape
+####Weeks 3+4:	Shape
 
 Quasimodo,	The	Human	Barbie	Doll,	The	Power	Suit	and	The	Hoop	Skirt.
 
@@ -28,7 +28,7 @@ Quasimodo,	The	Human	Barbie	Doll,	The	Power	Suit	and	The	Hoop	Skirt.
 
 - Diminution
 
-####Example improv:	Make	shadows	with	a	moving	light.
+#####Example improv:	Make	shadows	with	a	moving	light.
 
 ####Assignments:
 
@@ -46,7 +46,7 @@ Points and	lines in	space
 
 - Building	meshes	and	webs
 
-####Example improv: Build	a	yarn	sculpture	by	projecting lines	from	bodies	in	the	room.
+#####Example improv: Build	a	yarn	sculpture	by	projecting lines	from	bodies	in	the	room.
 
 ####Assignments:
 
@@ -64,9 +64,7 @@ Translating	movement	into	non-visual	media:	Sound	and	Text
 
 - Appropriating	poetic	devices	for	movement:	Meter,	Repetition,	Retrograde,	Elision,	Alliteration	and	Rhyme
 
-####Example improv: Shushing	walk.	Translate	a	poem	into	movement. Create	a	poem	with	
-
-movement.
+#####Example improv: Shushing	walk.	Translate	a	poem	into	movement. "Write"	a	poem	with	movement.
 
 ####Assignment:
 
