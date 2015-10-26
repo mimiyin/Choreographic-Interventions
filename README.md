@@ -8,9 +8,9 @@
 
 - Mapping	movement	qualities	to	visual	ones.
 
-Example improv:	Create	a	ground	painting.
+####Example improv:	Create	a	ground	painting.
 
-Assignments:
+####Assignments:
 
 - Collect	gestural	drawings,	paintings,	sculpture	and	architecture.
 
@@ -28,9 +28,9 @@ Quasimodo,	The	Human	Barbie	Doll,	The	Power	Suit	and	The	Hoop	Skirt.
 
 - Diminution
 
-Example improv:	Make	shadows	with	a	moving	light.
+####Example improv:	Make	shadows	with	a	moving	light.
 
-Assignments:
+####Assignments:
 
 - Collect	body	types	and	body-shaped	objects.
 
@@ -46,9 +46,9 @@ Points and	lines in	space
 
 - Building	meshes	and	webs
 
-Example improv: Build	a	yarn	sculpture	by	projecting lines	from	bodies	in	the	room.
+####Example improv: Build	a	yarn	sculpture	by	projecting lines	from	bodies	in	the	room.
 
-Assignments:
+####Assignments:
 
 - Collect	space-defining	architecture.
 
@@ -62,15 +62,13 @@ Translating	movement	into	non-visual	media:	Sound	and	Text
 
 - Mapping	gesture	to	text
 
-- Appropriating	poetic	devices	for	movement:	Meter,	Repetition,	Retrograde,	
+- Appropriating	poetic	devices	for	movement:	Meter,	Repetition,	Retrograde,	Elision,	Alliteration	and	Rhyme
 
-Elision,	Alliteration	and	Rhyme
-
-Example improv: Shushing	walk.	Translate	a	poem	into	movement. Create	a	poem	with	
+####Example improv: Shushing	walk.	Translate	a	poem	into	movement. Create	a	poem	with	
 
 movement.
 
-Assignment:
+####Assignment:
 
 - Final	Project	Proposal
 
