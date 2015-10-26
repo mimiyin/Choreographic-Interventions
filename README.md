@@ -1,8 +1,6 @@
-# Choreographic-Interventions
+# Syllabus - Work in Progress
 
-PROPOSED	SYLLABUS
-
-Weeks	1+2:	Path
+###Weeks	1+2:	Path
 
 - So	we	can	draw	with	the	body,	now	what?
 
@@ -18,7 +16,7 @@ Assignments:
 
 - Code:	Create	3	different	paintings.
 
-Weeks 3+4:	Shape
+###Weeks 3+4:	Shape
 
 Quasimodo,	The	Human	Barbie	Doll,	The	Power	Suit	and	The	Hoop	Skirt.
 
@@ -38,7 +36,7 @@ Assignments:
 
 - Code:	Create	and	test	3 different	funhouse	mirrors.
 
-Weeks 5+6:	Space
+###Weeks 5+6:	Space
 
 Points and	lines in	space
 
@@ -56,7 +54,7 @@ Assignments:
 
 - Code:	Define	space	in	3	different	ways	with	1	or	more	bodies.
 
-Weeks	7+8:	Translation
+###Weeks	7+8:	Translation
 
 Translating	movement	into	non-visual	media:	Sound	and	Text
 
@@ -76,10 +74,10 @@ Assignment:
 
 - Final	Project	Proposal
 
-Weeks 9+10+11
+###Weeks 9+10+11
 
 Workshop	and	user-test	final	project	ideas.
 
-Week	12
+###Week	12
 
 Showing.
