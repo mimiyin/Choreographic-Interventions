@@ -10,11 +10,7 @@
 
 #####Example improv:	Create	a	ground	painting.
 
-#####Assignments:
-
-- Collect	gestural	drawings,	paintings,	sculpture	and	architecture.
-
-- Code:	Create	3	different	paintings.
+#####Assignment: Make a short phrase that leaves traces of itself in 3D space.
 
 ##Shape
 
@@ -30,11 +26,7 @@ Quasimodo,	The	Human	Barbie	Doll,	The	Power	Suit	and	The	Hoop	Skirt.
 
 #####Example improv:	Make	shadows	with	a	moving	light.
 
-#####Assignments:
-
-- Collect	body	types	and	body-shaped	objects.
-
-- Code:	Create	and	test	3 different	funhouse	mirrors.
+#####Assignment: Create a movement exercise that distorts the texture and/or shape of the body.
 
 ##Space
 
@@ -48,11 +40,7 @@ Points and	lines in	space
 
 #####Example improv: Build	a	yarn	sculpture	by	projecting lines	from	bodies	in	the	room.
 
-#####Assignments:
-
-- Collect	space-defining	architecture.
-
-- Code:	Define	space	in	3	different	ways	with	1	or	more	bodies.
+#####Assignment: Define	space	with 1 or more bodies.
 
 ##Translation: Sound + Text
 
@@ -66,9 +54,7 @@ Translating	movement	into	non-visual	media:	Sound	and	Text
 
 #####Example improv: Shushing	walk.	Translate	a	poem	into	movement. "Write"	a	poem	with	movement.
 
-#####Assignment:
-
-- Final	Project	Proposal
+#####Assignment: Final	Project	Proposal
 
 ## Project Development: Weeks 11, 12, 13
 
