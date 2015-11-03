@@ -10,7 +10,7 @@
 
 #####Example improv:	Create	a	ground	painting.
 
-####Assignments:
+#####Assignments:
 
 - Collect	gestural	drawings,	paintings,	sculpture	and	architecture.
 
@@ -30,7 +30,7 @@ Quasimodo,	The	Human	Barbie	Doll,	The	Power	Suit	and	The	Hoop	Skirt.
 
 #####Example improv:	Make	shadows	with	a	moving	light.
 
-####Assignments:
+#####Assignments:
 
 - Collect	body	types	and	body-shaped	objects.
 
@@ -48,7 +48,7 @@ Points and	lines in	space
 
 #####Example improv: Build	a	yarn	sculpture	by	projecting lines	from	bodies	in	the	room.
 
-####Assignments:
+#####Assignments:
 
 - Collect	space-defining	architecture.
 
@@ -66,7 +66,7 @@ Translating	movement	into	non-visual	media:	Sound	and	Text
 
 #####Example improv: Shushing	walk.	Translate	a	poem	into	movement. "Write"	a	poem	with	movement.
 
-####Assignment:
+#####Assignment:
 
 - Final	Project	Proposal
 
