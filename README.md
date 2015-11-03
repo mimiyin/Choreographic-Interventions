@@ -1,6 +1,6 @@
 # Syllabus - Work in Progress
 
-###Weeks	1+2:	Path
+###Path
 
 - So	we	can	draw	with	the	body,	now	what?
 
@@ -16,7 +16,7 @@
 
 - Code:	Create	3	different	paintings.
 
-####Weeks 3+4:	Shape
+####Shape
 
 Quasimodo,	The	Human	Barbie	Doll,	The	Power	Suit	and	The	Hoop	Skirt.
 
@@ -36,7 +36,7 @@ Quasimodo,	The	Human	Barbie	Doll,	The	Power	Suit	and	The	Hoop	Skirt.
 
 - Code:	Create	and	test	3 different	funhouse	mirrors.
 
-###Weeks 5+6:	Space
+###Space
 
 Points and	lines in	space
 
@@ -54,7 +54,7 @@ Points and	lines in	space
 
 - Code:	Define	space	in	3	different	ways	with	1	or	more	bodies.
 
-###Weeks	7+8:	Translation
+###Translation: Sound + Text
 
 Translating	movement	into	non-visual	media:	Sound	and	Text
 
@@ -70,10 +70,10 @@ Translating	movement	into	non-visual	media:	Sound	and	Text
 
 - Final	Project	Proposal
 
-###Weeks 9+10+11
+###Weeks 11, 12, 13
 
 Workshop	and	user-test	final	project	ideas.
 
-###Week	12
+###Week	14
 
 Showing.
