@@ -1,6 +1,8 @@
 # Syllabus - Work in Progress
 
 ##Do dancers need to learn how to code?
+- In 2015, what do we mean when we say technology?
+- What does it mean to be in dialogue with it?
 
 ##Path
 
