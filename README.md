@@ -42,7 +42,7 @@ Points and	lines in	space
 
 #####Assignment: Define	space	with 1 or more bodies.
 
-##Translation: Sound + Text
+##Sound + Text
 
 Translating	movement	into	non-visual	media:	Sound	and	Text
 
