@@ -14,7 +14,7 @@
 
 #####Example improv:	Create	a	ground	painting.
 
-#####Assignment: Make a short phrase that leaves traces of itself in 3D space.
+#####Assignment: Make a short phrase that leaves traces of itself in space.
 
 ##Shape
 
