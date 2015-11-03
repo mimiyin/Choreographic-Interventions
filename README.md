@@ -1,5 +1,7 @@
 # Syllabus - Work in Progress
 
+##Do dancers need to learn how to code?
+
 ##Path
 
 - So	we	can	draw	with	the	body,	now	what?
