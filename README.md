@@ -1,5 +1,8 @@
 # Syllabus - Work in Progress
 
+###Assignments
+Over the course of the semester, we will cover 4 topic areas: Pathways, Shape, Space and Sound+Text. For each topic, you will create small movement studies in 2 ways, the first analog, the second computational.
+
 ##Do dancers need to learn how to code?
 - In 2016, what do we mean when we say technology?
 - What does it mean to be in dialogue with it?
