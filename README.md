@@ -28,6 +28,7 @@ Because course topics are organized around movement concepts, technical topics w
 - Select chapters from [The Viewpoints Book](http://www.amazon.com/The-Viewpoints-Book-Practical-Composition/dp/1559362413)
 - Select chapters from [Dynamic Alignment Through Imagery](http://www.amazon.com/Dynamic-Alignment-Through-Imagery-Edition/dp/0736067892)
 - [Forsythe Technique Videos on Youtube](https://www.youtube.com/watch?v=6X29OjcBHG8&list=PLAEBD630ACCB6AD45)
+- More to come!
 
 
 ##Do dancers need to learn how to code?
