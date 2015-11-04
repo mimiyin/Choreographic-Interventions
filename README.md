@@ -89,7 +89,7 @@ Most of us are intimately familiar with interfaces where our movement serves as 
 
 This class explores the use of interactive media to “choreograph” in the broadest sense of the word from choreography as dance-making to choreography as crowd control. How do you get someone to soften their chest? Eat space? Change level? How do you shake the entire room? How do you orchestrate duets between strangers?
 
-Conceived of as a (re-)introduction to computational media through the lens of dance, students will practice how to apply computational thinking to the craft of choreography.
+Conceived as a (re-)introduction to computational media through the lens of dance, students will practice how to apply computational thinking to the craft of choreography.
 
 Using computer vision and a broad range of media from graphics and video, to sound and text, we will look at directing both how people move (quality of movement) as well as where they move (pathways and spatial relationships).
 
