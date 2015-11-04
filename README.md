@@ -40,7 +40,7 @@ Because course topics are organized around movement concepts, technical topics w
 So	we	can	draw	with	the	body,	now	what?
 - Tracking and visualizing how the body moves through space. 
 - What exactly are we tracking? 
-- To what end are we tracking?
+- Why are we tracking?
 
 #####Example in-class improvs:	Synchronized walking. Create	a	ground	painting.
 
