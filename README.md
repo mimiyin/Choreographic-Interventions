@@ -1,6 +1,10 @@
 # Syllabus - Work in Progress
 
-###Assignments
+###Structure of the Class
+Topics will be introduced through movement-based improvisation exercises.  Computational strategies will be examined through code examples and custom software tools. Designs for interactions will evolve through testing and iteration.
+
+The class will culminate in a showing of student work. Final projects can either be in the form of a tool to aid in movement practice, an interactive installation or a live performance. 
+
 Over the course of the semester, we will cover 4 topic areas: Pathways, Shape, Space and Sound+Text. For each topic, you will create small movement studies in 2 ways, the first analog, the second computational.
 
 ##Do dancers need to learn how to code?
