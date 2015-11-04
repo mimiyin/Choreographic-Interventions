@@ -19,8 +19,7 @@ Because the coursework is organized around movement concepts, technical topics w
 - Calculating Velocity and Acceleration
 - Using Random and Noise
 - Simple math for mapping values
-- Working with Text
-- Working with Sound
+- Working with Video, Text, and Sound
 
 ###Resources
 - [Download Processing](https://www.processing.org/download/)
