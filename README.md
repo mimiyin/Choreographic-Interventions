@@ -34,7 +34,7 @@ Because course topics are organized around movement concepts, technical topics w
 - In 2016, what do we mean when we say technology?
 - What does it mean to be in dialogue with it?
 - What does computation have to do with dance?
-- Comparing apples and oranges: How has computation changed architecture and visual art versus music, writing and dance?
+- Comparing apples and oranges: How has computation changed different artforms? Visual art, sculpture, architecture, music, writing and dance?
 
 ##Pathways
 So	we	can	draw	with	the	body,	now	what?
