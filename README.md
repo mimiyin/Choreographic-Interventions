@@ -10,15 +10,17 @@ Over the course of the semester, we will cover 4 topic areas: Pathways, Shape, S
 The class will culminate in a showing of student work. Final projects can either be in the form of a tool to aid in movement practice, an interactive installation or a live performance. 
 
 Because the coursework is organized around movement concepts, technical topics will be introduced, re-introduced and re-inroduced every week. 
-- Brief overview of computer vision technology: RGB, IR, Kinect, Mocap
+- Brief overview of camera + computer vision technologies: RGB, IR, Kinect, Mocap
 - Skeletons and Depth Maps
-- Basic Drawing in Processing
-- Basic Programming Concepts: 3D-XYZ-Space, Variables, Conditionals, Loops, Arrays
-- Basic Text Processing
-- Working with Sound Libraries
+- Basic programming concepts: Variables, Conditionals, Loops, Arrays
+- Basic drawing + animation in Processing
+- 3D-XYZ-Space
 - Squares v. Circles: Cartesian and Polar Coordinates
 - Calculating velocity and acceleration
+- Using Random and Noise
 - Simple math for mapping values
+- Basic Text Processing
+- Working with Sound Libraries
 
 ###Resources
 - Download Processing](https://www.processing.org/download/)
