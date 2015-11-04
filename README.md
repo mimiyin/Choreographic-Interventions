@@ -21,7 +21,7 @@ Quasimodo,	The	Human	Barbie	Doll,	The	Power	Suit	and	The	Hoop	Skirt.
 - Amplification
 - Diminution
 
-#####Example improv:	Make	shadows	with	a	moving	light.
+#####Example improv:	Shadow-play	with	a	moving	light.
 
 #####Assignment: Create a movement exercise that distorts the texture and/or shape of the body.
 
@@ -48,6 +48,6 @@ Translating	movement	into	non-visual	media:	Sound	and	Text
 
 ## Project Development: Weeks 11, 12, 13
 
-Workshop	and	user-test	final	project	ideas.
+Workshop and	user-test	final	project	ideas.
 
 ## Showing: Week 14
