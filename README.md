@@ -1,9 +1,13 @@
 # Syllabus - Work in Progress
 
-###Course Structure
-Over the course of the semester, we will cover 4 topic areas: Pathways, Shape, Space and Sound+Text. Topics will be introduced through movement-based improvisation exercises. Computational strategies will be examined through code examples and custom software tools. For each topic, you will create small movement studies in 2 ways, the first analog, the second computational.
+- Spring 2016, Mondays, 7PM-9:30PM in Studio 1 @[111 2nd Avenue](https://goo.gl/maps/FfVoDSMxNSN2) 
+- Mimi Yin, mimi.yin@nyu.edu
+- [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
 
-The class will culminate in a showing of your work. Final projects can either be in the form of a tool to aid in movement practice, an interactive installation or a live performance. 
+###Course Structure
+Over the course of the semester, we will cover 4 topic areas: Pathways, Shape, Space and Sound+Text. Topics will be introduced through movement-based improvisation exercises. Computational strategies will be examined through code examples and custom software tools. For each topic, students will create a small movement study in 2 stages: the first analog, the second computational with the aim of fully exploring how technology "intervened" and changed the choreographic process.
+
+The class will culminate in a showing of student work. Final projects can either be in the form of a tool to aid in movement practice, an interactive installation or a live performance. 
 
 ###Resources
 - [Learning Processing - Videos](http://learningprocessing.com/videos/)
@@ -75,12 +79,7 @@ Using computer vision and a broad range of media from graphics and video, to sou
 
 We will evaluate the strengths and weaknesses of the various sensing technologies available to us today. What is the delta between what we can see and feel (strength, hardness, contortion) and what a computer can see and interpret (locations, contours, velocity, acceleration)?
 
-STRUCTURE
-Over the course of the semester, we will cover 4 topic areas: Pathways, Shape, Space and Sound+Text. Topics will be introduced through movement-based improvisation exercises. Computational strategies will be examined through code examples and custom software tools. For each topic, students will create a small movement study in 2 stages: the first analog, the second computational.
-
-The class will culminate in a showing of student work. Final projects can either be in the form of a tool to aid in movement practice, an interactive installation or a live performance. 
-
-PREREQUESITES
+## Pre-requesites
 The course is intended both for anyone looking to deepen their practice in working with movement-based interaction regardless of previous experience with movement technique or programming.
 
 As a result, there is no pre-requisite for dance and no pre-requisite for code.	  		  		  		  		  		  		  		  		  
