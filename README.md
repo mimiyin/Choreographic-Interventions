@@ -4,7 +4,7 @@
 - Mimi Yin, mimi.yin@nyu.edu
 - [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
 
-###Course Structure
+###Course Structure | [See description below.](#course-description)
 Over the course of the semester, we will cover 4 topic areas: Pathways, Shape, Space and Sound+Text. Topics will be introduced through movement-based improvisation exercises. Computational strategies will be examined through code examples and custom software tools. For each topic, students will create a small movement study in 2 stages: the first analog, the second computational with the aim of fully exploring how technology "intervened" and changed the choreographic process.
 
 The class will culminate in a showing of student work. Final projects can either be in the form of a tool to aid in movement practice, an interactive installation or a live performance. 
