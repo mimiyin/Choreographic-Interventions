@@ -23,7 +23,7 @@ Because the coursework is organized around movement concepts, technical topics w
 - Working with Sound Libraries
 
 ###Resources
-- Download Processing](https://www.processing.org/download/)
+- [Download Processing](https://www.processing.org/download/)
 - [Learning Processing - Videos](http://learningprocessing.com/videos/)
 - [Learning Processing - The Book](http://learningprocessing.com/) by Dan Shiffman
 - Select chapters from [The Viewpoints Book](http://www.amazon.com/The-Viewpoints-Book-Practical-Composition/dp/1559362413)
