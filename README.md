@@ -11,7 +11,7 @@ The class will culminate in a showing of student work. Final projects can either
 
 Because the coursework is organized around movement concepts, technical topics will be introduced, re-introduced and re-inroduced every week. 
 - Brief overview of camera + computer vision technologies: RGB, IR, Kinect, Mocap
-- Skeletons and Depth Maps
+- Skeletons and depth maps
 - Basic programming concepts: Variables, Conditionals, Loops, Arrays
 - Basic drawing + animation in Processing
 - 3D-XYZ-Space
@@ -19,8 +19,8 @@ Because the coursework is organized around movement concepts, technical topics w
 - Calculating velocity and acceleration
 - Using Random and Noise
 - Simple math for mapping values
-- Basic Text Processing
-- Working with Sound Libraries
+- Basic text processing
+- Working with sound
 
 ###Resources
 - [Download Processing](https://www.processing.org/download/)
