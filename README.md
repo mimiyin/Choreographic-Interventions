@@ -33,7 +33,7 @@ Because course topics are organized around movement concepts, technical topics w
 ##Do dancers need to learn how to code?
 - In 2016, what do we mean when we say technology?
 - What does it mean to be in dialogue with it?
-- What does computation have to do with dance?
+- Why use technology at all? From [Gesamtkunstwerk](https://en.wikipedia.org/wiki/Gesamtkunstwerk) to the [I Ching](https://en.wikipedia.org/wiki/I_Ching).
 - Comparing apples and oranges: How has computation changed different artforms? Visual art, sculpture, architecture, music, writing and dance?
 
 ##Pathways
