@@ -43,7 +43,7 @@ So	we	can	draw	with	the	body,	now	what?
 
 #####Example in-class improvs:	Synchronized walking. Create	a	ground	painting.
 
-#####Assignment: Make a short phrase that leaves traces of itself in space.
+#####Topic Study: Make a short phrase that leaves traces of itself in space.
 
 ##Shape
 Quasimodo,	The	Human	Barbie	Doll,	The	Power	Suit	and	The	Hoop	Skirt.
@@ -53,7 +53,7 @@ Quasimodo,	The	Human	Barbie	Doll,	The	Power	Suit	and	The	Hoop	Skirt.
 
 #####Example in-class improvs: Shadow-play with moving light. Dancing in suits.
 
-#####Assignment: Create a movement exercise that changes the texture and/or shape of the body.
+#####Topic Study: Create a movement exercise that changes the texture and/or shape of the body.
 
 ##Space
 Points, lines and curves.
@@ -65,7 +65,7 @@ Points, lines and curves.
 
 #####Example in-class improvs: Walking the grid. Build	a	yarn	sculpture	by	projecting lines from	bodies in	the	room.
 
-#####Assignment: Define	space	with 1 or more bodies.
+#####Topic Study: Define	space	with 1 or more bodies.
 
 ##Sound + Text
 Translating	movement	into	non-visual	media:	Sound	and	Text
@@ -75,7 +75,7 @@ Translating	movement	into	non-visual	media:	Sound	and	Text
 
 #####Example improv: Shushing	walk.	Translate	a	poem	into	movement. "Write"	a	poem	with	movement.
 
-#####Assignment: Create a phrase in dialogue with sound or text.
+#####Topic Study: Create a conversation between movement and sound or text.
 
 ## Project Development: Weeks 11, 12, 13
 
