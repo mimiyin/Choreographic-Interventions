@@ -5,10 +5,8 @@
 - What does it mean to be in dialogue with it?
 
 ##Path
-
-- So	we	can	draw	with	the	body,	now	what?
+So	we	can	draw	with	the	body,	now	what?
 - Tracking how the body moves through space: What exactly are we tracking and what about it is interesting?
-- XYZ coordinates, velocity and acceleration.
 
 #####Example improv:	Create	a	ground	painting.
 
@@ -16,7 +14,7 @@
 
 ##Shape
 Quasimodo,	The	Human	Barbie	Doll,	The	Power	Suit	and	The	Hoop	Skirt.
-- Deformities	and	changing	aesthetics.
+- Deformities
 - Displacement
 - Amplification
 - Diminution
