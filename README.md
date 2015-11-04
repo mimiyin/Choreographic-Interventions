@@ -9,7 +9,7 @@ Over the course of the semester, we will cover 4 topic areas: Pathways, Shape, S
 
 The class will culminate in a showing of student work. Final projects can either be in the form of a tool to aid in movement practice, an interactive installation or a live performance. 
 
-Because course topics are organized around movement concepts, technical topics will be introduced, re-introduced and re-introduced every week. 
+Because course topics are organized around movement concepts, technical topics will be introduced, re-introduced and re-introduced week to week. 
 - Brief overview of camera/computer vision technologies: RGB, IR, Kinect, Mocap...
 - Skeletons and Depth Maps
 - Basic programming concepts: Variables, Conditionals, Loops, Arrays
