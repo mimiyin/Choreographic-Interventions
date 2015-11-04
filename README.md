@@ -5,13 +5,19 @@ Over the course of the semester, we will cover 4 topic areas: Pathways, Shape, S
 
 The class will culminate in a showing of your work. Final projects can either be in the form of a tool to aid in movement practice, an interactive installation or a live performance. 
 
+###Resources
+- [Learning Processing - Videos](http://learningprocessing.com/videos/)
+- [Learning Processing - The Book](http://learningprocessing.com/) by Dan Shiffman
+- Select chapters from [The Viewpoints Book](http://www.amazon.com/The-Viewpoints-Book-Practical-Composition/dp/1559362413)
+- [Forsythe Technique Videos on Youtube](https://www.youtube.com/watch?v=6X29OjcBHG8&list=PLAEBD630ACCB6AD45)
+
 
 ##Do dancers need to learn how to code?
 - In 2016, what do we mean when we say technology?
 - What does it mean to be in dialogue with it?
 - What does computation have to do with dance?
 
-##Path
+##Pathways
 So	we	can	draw	with	the	body,	now	what?
 - Tracking how the body moves through space: What exactly are we tracking and what about it is interesting?
 
@@ -57,3 +63,26 @@ Translating	movement	into	non-visual	media:	Sound	and	Text
 Workshop and	user-test	final	project	ideas.
 
 ## Showing: Week 14
+
+# Course Description
+Most of us are intimately familiar with interfaces where our movement serves as input to control interactive media. Less familiar are systems designed to compel us to dance, to groove, to move in new and unexpected ways.
+
+This class explores the use of interactive media to “choreograph” in the broadest sense of the word from choreography as dance-making to choreography as crowd control. How do you get someone to soften their chest? Eat space? Change level? How do you shake the entire room? How do you orchestrate duets between strangers?
+
+Conceived of as a (re-)introduction to computational media through the lens of dance, students will practice how to apply computational thinking to the craft of choreography.
+
+Using computer vision and a broad range of media from graphics and video, to sound and text, we will look at directing both how people move (quality of movement) as well as where they move (pathways and spatial relationships).
+
+We will evaluate the strengths and weaknesses of the various sensing technologies available to us today. What is the delta between what we can see and feel (strength, hardness, contortion) and what a computer can see and interpret (locations, contours, velocity, acceleration)?
+
+STRUCTURE
+Over the course of the semester, we will cover 4 topic areas: Pathways, Shape, Space and Sound+Text. Topics will be introduced through movement-based improvisation exercises. Computational strategies will be examined through code examples and custom software tools. For each topic, students will create a small movement study in 2 stages: the first analog, the second computational.
+
+The class will culminate in a showing of student work. Final projects can either be in the form of a tool to aid in movement practice, an interactive installation or a live performance. 
+
+PREREQUESITES
+The course is intended both for anyone looking to deepen their practice in working with movement-based interaction regardless of previous experience with movement technique or programming.
+
+As a result, there is no pre-requisite for dance and no pre-requisite for code.	  		  		  		  		  		  		  		  		  
+
+
