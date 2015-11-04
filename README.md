@@ -1,8 +1,9 @@
 # Syllabus - Work in Progress
 
 ##Do dancers need to learn how to code?
-- In 2015, what do we mean when we say technology?
+- In 2016, what do we mean when we say technology?
 - What does it mean to be in dialogue with it?
+- What does computation have to do with dance?
 
 ##Path
 So	we	can	draw	with	the	body,	now	what?
@@ -19,16 +20,17 @@ Quasimodo,	The	Human	Barbie	Doll,	The	Power	Suit	and	The	Hoop	Skirt.
 - Amplification
 - Diminution
 
-#####Example improv:	Shadow-play	with	a	moving	light.
+#####Example improv:	Shadow-play	with moving light. Dancing in suits.
 
-#####Assignment: Create a movement exercise that distorts the texture and/or shape of the body.
+#####Assignment: Create a movement exercise that changes the texture and/or shape of the body.
 
 ##Space
 Points, lines and curves.
-- Dividing	up	space
-- Projecting	lines	and	planes
-- Arcs and curves
-- Building	meshes	and	webs
+- Defining space.
+- Dividing	space.
+- Projecting	lines	and	planes.
+- Arcs and curves.
+- Meshes	and	webs.
 
 #####Example improv: Build	a	yarn	sculpture	by	projecting lines	from	bodies	in	the	room.
 
@@ -38,7 +40,7 @@ Points, lines and curves.
 Translating	movement	into	non-visual	media:	Sound	and	Text
 - Mapping	movement to sound.
 - Mapping	gesture to text.
-- Appropriating	poetic	devices	for	movement:	Meter, Repetition, Retrograde, Elision, Alliteration and	Rhyme.
+- Appropriating	poetic devices for generating patterns of movement:	Meter, Repetition, Retrograde, Elision, Alliteration and	Rhyme.
 
 #####Example improv: Shushing	walk.	Translate	a	poem	into	movement. "Write"	a	poem	with	movement.
 
