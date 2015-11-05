@@ -10,16 +10,17 @@ Over the course of the semester, we will cover 4 topic areas: Pathways, Shape, S
 The class will culminate in a showing of student work. Final projects can either be in the form of a tool to aid in movement practice, an interactive installation or a live performance. 
 
 Because course topics are organized around movement concepts, technical topics will be introduced and built upon week to week. 
-- Brief overview of camera/computer vision technologies: RGB, IR, Kinect, Mocap...
+- What do cameras see? RGB, IR, Kinect, Mocap...
 - Skeletons and Depth Maps
-- Basic programming concepts: Variables, Conditionals, Loops, Arrays
+- Blob and Face detection
+- Basic programming concepts: Variables, Conditionals, Loops, Arrays, Objects
 - Basic drawing + animation in Processing
 - 2D v. 3D
 - Squares v. Circles: Cartesian and Polar Coordinates
 - Calculating Velocity and Acceleration
 - Using Random and Noise
 - Simple math for mapping values
-- Working with Images, Video, Text, and Sound
+- Manipulating Images, Video, Text, and Sound
 
 ###Resources
 - [Download Processing](https://www.processing.org/download/)
@@ -41,13 +42,15 @@ Because course topics are organized around movement concepts, technical topics w
 So	we	can	draw	with	the	body,	now	what?
 - Tracking and visualizing how the body moves through space. 
 - What exactly are we tracking? And why are we tracking it?
+- Getural painting.
+- Kinesiology mirrors.
 
 #####Example in-class improvs:	Synchronized walking. Create	a	ground	painting.
 
 #####Topic Study: Make a short phrase that leaves traces of itself in space.
 
 ##Shape
-Quasimodo,	The	Human	Barbie	Doll,	The	Power	Suit	and	The	Hoop	Skirt.
+Face-swapping, Missing limbs, Bulging muscles, Sunken chests.
 - Deformities
 - Displacements
 - & Distortions
@@ -57,7 +60,7 @@ Quasimodo,	The	Human	Barbie	Doll,	The	Power	Suit	and	The	Hoop	Skirt.
 #####Topic Study: Create a movement exercise that changes the texture and/or shape of the body.
 
 ##Space
-Points, lines and curves.
+Points, lines and curves. Bodies as architecture.
 - Defining space.
 - Dividing	space.
 - Projecting	lines	and	planes.
