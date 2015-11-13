@@ -60,7 +60,7 @@ Face-swapping, Missing limbs, Bulging muscles, Sunken chests.
 #####Topic Study: Create a movement exercise that changes the texture and/or shape of the body.
 
 ##Space
-Points, lines and curves. Bodies as architecture.
+Points, lines and curves. Bodies as architecture. Moving in relation to architecture.
 - Defining space.
 - Dividing	space.
 - Projecting	lines	and	planes.
@@ -70,6 +70,15 @@ Points, lines and curves. Bodies as architecture.
 #####Example in-class improvs: Walking the grid. Build	a	yarn	sculpture	by	projecting lines from	bodies in	the	room.
 
 #####Topic Study: Define	space	with 1 or more bodies.
+
+##Timing + Pacing
+- Rhythm v. Tempo
+- Building polyrhythyms
+- Dynamic pacing with [Easing](http://easings.net/) + [Zeno's Paradox](https://en.wikipedia.org/wiki/Zeno%27s_paradoxes)
+
+#####Example in-class improvs: [Human metronomes](https://www.youtube.com/watch?v=QCp7bL-AWvw)
+
+#####Topic Study: Build a polyrhythm.
 
 ##Sound + Text
 Translating	movement	into	non-visual	media:	Sound	and	Text
