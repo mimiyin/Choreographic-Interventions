@@ -22,6 +22,12 @@ Because course topics are organized around movement concepts, technical topics w
 - Simple math for mapping values
 - Manipulating Images, Video, Text, and Sound
 
+"Soft Skills" we will practice:
+- Sketching (as in drawing on paper) choreographic ideas.
+- Defining rule sets for movement.
+- Deconstructing choreography into parameters for code.
+- Extracting choreographic ideas from code.
+
 ###Resources
 - [Download Processing](https://www.processing.org/download/)
 - [Learning Processing - Videos](http://learningprocessing.com/videos/)
