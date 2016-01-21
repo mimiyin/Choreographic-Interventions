@@ -30,42 +30,92 @@ Because course topics are organized around movement concepts, technical topics w
 
 ###Resources
 - [Download Processing](https://www.processing.org/download/)
+- [Learning Processing 2nd Edition - The Book](http://learningprocessing.com/) by Dan Shiffman
 - [Learning Processing - Videos](http://learningprocessing.com/videos/)
-- [Learning Processing - The Book](http://learningprocessing.com/) by Dan Shiffman
-- Select chapters from [The Viewpoints Book](http://www.amazon.com/The-Viewpoints-Book-Practical-Composition/dp/1559362413)
-- Select chapters from [Dynamic Alignment Through Imagery](http://www.amazon.com/Dynamic-Alignment-Through-Imagery-Edition/dp/0736067892)
-- [Forsythe Technique Videos on Youtube](https://www.youtube.com/watch?v=6X29OjcBHG8&list=PLAEBD630ACCB6AD45)
+- [Learning Processing - Examples](https://github.com/shiffman/LearningProcessing)
+- [Processing Reference](https://processing.org/reference/)
+- [Open Processing](http://openprocessing.org) in Firefox!
+- Select chapters from [The Viewpoints Book](http://www.amazon.com/The-Viewpoints-Book-Practical-Composition/dp/1559362413) | [PDF](http://www.bam.org/media/4813887/anne-bogart-and-tina-landau-the-viewpoints-book.pdf)
+- Select chapters from [Dynamic Alignment Through Imagery](http://www.amazon.com/Dynamic-Alignment-Through-Imagery-Edition/dp/0736067892) | [Google Books](https://books.google.com/books?id=CBwV_g8DhEMC&lpg=PA2&ots=nRQ2JS3SWv&dq=dynamic%20alignment%20chapters&pg=PP1#v=onepage&q&f=false)
+- [Forsythe Technique Videos on Youtube](https://www.youtube.com/user/GrandpaSafari/videos)
 - More to come!
 
+###Dance students checking stuff out of ITP ER:
+   - Check it out under my name
+   - Bring your NYU ID
+   - netid
+   - Nxxxx id number
 
-##Do dancers need to learn how to code?
+## Week 1: Introduction + Pathways
+
+###The dramaturgy of numbers.
+- What is [dramaturgy](https://en.wikipedia.org/wiki/Dramaturgy)?
+   - [The Myth of Sisyphus](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)
+   - [Zeno's Paradox](http://platonicrealms.com/encyclopedia/zenos-paradox-of-the-tortoise-and-achilles)
+   - [Prime numbers](https://en.wikipedia.org/wiki/Prime_number)
+   - [Poeme Symphonique by Gyorgy Ligeti](https://www.youtube.com/watch?v=-mUv705xj3U)
 - In 2016, what do we mean when we say technology?
-- What does it mean to be in dialogue with it?
+- What does it mean to be in conversation with it?
+   - Unison --> [Call-and-Response](https://www.youtube.com/playlist?list=PLwgpQxdj6S9N0vhf-_m1OAmZn4llXBsWS) --> Open-ended Dialogue --> Collage & Chance Operations
 - Why use technology at all? From [Gesamtkunstwerk](https://en.wikipedia.org/wiki/Gesamtkunstwerk) to the [I Ching](https://en.wikipedia.org/wiki/I_Ching).
-- Comparing apples and oranges: How has computation changed different artforms? Visual art, sculpture, architecture, music, writing and dance?
+
+### Technology
+ - Why Processing? 
+ - Why Java?
+ - Why Kinect v2? [v1 versus v2](http://zugara.com/how-does-the-kinect-2-compare-to-the-kinect-1)
 
 ##Pathways
-So	we	can	draw	with	the	body,	now	what?
-- Tracking and visualizing how the body moves through space. 
-- What exactly are we tracking? And why are we tracking it?
-- Getural painting.
-- Kinesiology mirrors.
+How does the ability to visualize pathways change them?
+- What defines a path? Forsythe: [Avoidance](https://www.youtube.com/watch?v=cqGyFiEXXIQ) | [Line](https://www.youtube.com/watch?v=aOd0PtgS8KU)
+- Unison v. Dialogue | [Body Navigation](http://ole.kristensen.name/works/body-navigation/)
+- Improv: "Draw" on the floor. Turn it into a duet.
+- Code: Anatomy of a Sketch. X-Y Space. Drawing shapes. Mouse and keyboard interaction. Switch/Case. Variables. random().
 
-#####Example in-class improvs:	Synchronized walking. Create	a	ground	painting.
+##### Week 1 Assignment
+- Create a 30s phrase with a floor projection of live drawing.
+- Document your phrase. Answer the question: How does the drawing drive the choreography?
+- Read chapter 2 of [Viewpoints](http://www.bam.org/media/4813887/anne-bogart-and-tina-landau-the-viewpoints-book.pdf). What is a framework? What are the parameters of choreography?
+- Read chapters 1-5 of Learning Processing
+- [Watch videos](http://learningprocessing.com/videos/) for chapters 1-5
 
-#####Topic Study: Make a short phrase that leaves traces of itself in space.
+## Week 2: Pathways cont'd 
+When to visualize. When not to visualize.
+- Improv: Create a floor painting.
+- Code: Booleans and Conditionals.
+- Improv: Define a path in 5 ways.
+- Tech: Introduction to PCS, Kinect and Skeletons!
+- Code: Libraries. Functions. P3D, XYZ space. Translate, Rotate, Scale, Push/Pop Matrix. Map. Loops/Arrays.
 
-##Shape
-Face-swapping, Missing limbs, Bulging muscles, Sunken chests.
-- Deformities
-- Displacements
-- & Distortions
+##### Week 2 Assignment
+- Create a 30s phrase with the Kinect Skeleton. Document.
+- Read chapters 14, 7, 6, 9 of Learning Processing
+- [Watch videos](http://learningprocessing.com/videos/) for chapters 7, 6, 9
 
-#####Example in-class improvs: Shadow-play with moving light. Dancing in suits.
+## Week 3 Shape
+How does changing the way the body is represented, change the quality of movement?
+- Geography of the body.
+- Re-drawing the Skeleton with shapes
+- Improv: Dancing with suits.
+- Code: Complex shapes, lines, curves.
+- Improv: Playing with shadows.
 
-#####Topic Study: Create a movement exercise that changes the texture and/or shape of the body.
+##### Week 3 Assignment
+- Create a shadow dance. Document.
+- Bring a piece of clothing that changes the shape of your body to class next week.
+- Read Chapter 7 of [Dynamic Alignment](https://books.google.com/books?id=CBwV_g8DhEMC&lpg=PA2&ots=nRQ2JS3SWv&dq=dynamic%20alignment%20chapters&pg=PP1#v=onepage&q&f=false)
 
-##Space
+## Week 4 Texture
+- Improv: Ways to get to know your body.
+- Visual imagery, why use it?
+- Improv: Lie on the ground as if it is sand.
+- Technology: Kinect point cloud.
+- Improv: Stand as if body is made of tiny bubbles.
+- Code: Loops/Arrays. Vectors. Images and Video. strokeWeight, color, alpha, textures. 
+
+##### Week 4 Assignment
+- Create 30s of movement material that moves through at least 3 different representations of the body. Document.
+
+## Space
 Points, lines and curves. Bodies as architecture. Moving in relation to architecture.
 - Defining space.
 - Dividing	space.
