@@ -78,7 +78,7 @@ How does the ability to visualize pathways change them?
 - Read chapters 1-5 of Learning Processing
 - [Watch videos](http://learningprocessing.com/videos/) for chapters 1-5
 
-## Week 2: Pathways cont'd 
+## Week 2: Pathways: Painting the floor. 
 When to visualize. When not to visualize.
 - Improv: Create a floor painting.
 - Code: Booleans and Conditionals.
@@ -91,7 +91,7 @@ When to visualize. When not to visualize.
 - Read chapters 14, 7, 6, 9 of Learning Processing
 - [Watch videos](http://learningprocessing.com/videos/) for chapters 7, 6, 9
 
-## Week 3 Shape
+## Week 3 Shape: Playing with shadows.
 How does changing the way the body is represented, change the quality of movement?
 - Geography of the body.
 - Re-drawing the Skeleton with shapes
@@ -105,7 +105,7 @@ How does changing the way the body is represented, change the quality of movemen
 - Bring a piece of clothing that changes the shape of your body to class next week.
 - Read Chapter 7 of [Dynamic Alignment](https://books.google.com/books?id=CBwV_g8DhEMC&lpg=PA2&ots=nRQ2JS3SWv&dq=dynamic%20alignment%20chapters&pg=PP1#v=onepage&q&f=false)
 
-## Week 4 Texture
+## Week 4 Texture: Lying on sand.
 - Visual imagery, why use it?
 - Improv: Lie on the ground as if it is sand.
 - Technology: Kinect point cloud.
