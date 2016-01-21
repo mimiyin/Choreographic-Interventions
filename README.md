@@ -48,8 +48,8 @@ Because course topics are organized around movement concepts, technical topics w
 
 ## Week 1: Introduction + Pathways
 
-###The dramaturgy of numbers.
-- What is [dramaturgy](https://en.wikipedia.org/wiki/Dramaturgy)?
+###The [dramaturgy](https://en.wikipedia.org/wiki/Dramaturgy) of numbers.
+- What is the dramatic content in numbers?
    - [The Myth of Sisyphus](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)
    - [Zeno's Paradox](http://platonicrealms.com/encyclopedia/zenos-paradox-of-the-tortoise-and-achilles)
    - [Prime numbers](https://en.wikipedia.org/wiki/Prime_number)
