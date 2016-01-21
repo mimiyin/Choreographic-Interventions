@@ -95,6 +95,7 @@ When to visualize. When not to visualize.
 How does changing the way the body is represented, change the quality of movement?
 - Geography of the body.
 - Re-drawing the Skeleton with shapes
+- Improv: Ways to get to know your body.
 - Improv: Dancing with suits.
 - Code: Complex shapes, lines, curves.
 - Improv: Playing with shadows.
@@ -105,7 +106,6 @@ How does changing the way the body is represented, change the quality of movemen
 - Read Chapter 7 of [Dynamic Alignment](https://books.google.com/books?id=CBwV_g8DhEMC&lpg=PA2&ots=nRQ2JS3SWv&dq=dynamic%20alignment%20chapters&pg=PP1#v=onepage&q&f=false)
 
 ## Week 4 Texture
-- Improv: Ways to get to know your body.
 - Visual imagery, why use it?
 - Improv: Lie on the ground as if it is sand.
 - Technology: Kinect point cloud.
