@@ -73,17 +73,17 @@ How does the ability to visualize pathways change them?
 - Code: Anatomy of a Sketch. X-Y Space. Drawing shapes. Mouse and keyboard interaction. Switch/Case. Variables. random().
 
 ##### Week 1 Assignment
-- Create a 30s phrase with a floor projection of live drawing.
+- Book studio time.
+- Have a conversation about: What does it means to "draw" on the floor?
+	- Explore the full spectrum of dialogue from unison to serendipity.
+	- Play with the mousedrawing example to create a 30s phrase.
 - Document your phrase. Answer the question: How does the drawing drive the choreography?
 - Read chapter 2 of [Viewpoints](http://www.bam.org/media/4813887/anne-bogart-and-tina-landau-the-viewpoints-book.pdf). What is a framework? What are the parameters of choreography?
 - Read chapters 1-5 of Learning Processing
 - [Watch videos](http://learningprocessing.com/videos/) for chapters 1-5
 
-## Week 2: Pathways: Painting the floor. 
-When to visualize. When not to visualize.
-- Improv: Create a floor painting.
-- Code: Booleans and Conditionals.
-- Improv: Define a path in 5 ways.
+## Week 2 Pathways: Drawing on air. 
+- Improv: Define a path in 3D in 5 ways.
 - Tech: Introduction to PCS, Kinect and Skeletons!
 - Code: Libraries. Functions. P3D, XYZ space. Translate, Rotate, Scale, Push/Pop Matrix. Map. Loops/Arrays.
 
@@ -95,9 +95,9 @@ When to visualize. When not to visualize.
 ## Week 3 Shape: Playing with shadows.
 How does changing the way the body is represented, change the quality of movement?
 - Geography of the body.
-- Re-drawing the Skeleton with shapes
 - Improv: Ways to get to know your body.
 - Improv: Dancing with suits.
+- Tech: Re-drawing the Skeleton with shapes
 - Code: Complex shapes, lines, curves.
 - Improv: Playing with shadows.
 
@@ -122,7 +122,7 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 - Dividing	space.
 - Projecting	lines	and	planes.
 - Arcs and curves.
-- Meshes	and	webs.
+- Meshes and webs.
 
 #####Example in-class improvs: Walking the grid. Build	a	yarn	sculpture	by	projecting lines from	bodies in	the	room.
 
