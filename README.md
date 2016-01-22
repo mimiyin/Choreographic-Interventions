@@ -76,7 +76,7 @@ How does the ability to visualize pathways change them?
 - Book studio time.
 - Have a conversation about: What does it means to "draw" on the floor?
 	- Explore the full spectrum of dialogue from unison to serendipity.
-	- Play with the mousedrawing example to create a 30s phrase.
+	- Play with the mousedrawing example to create a 30s floor drawing phrase with a wall projection.
 - Document your phrase. Answer the question: How does the drawing drive the choreography?
 - Read chapter 2 of [Viewpoints](http://www.bam.org/media/4813887/anne-bogart-and-tina-landau-the-viewpoints-book.pdf). What is a framework? What are the parameters of choreography?
 - Read chapters 1-5 of Learning Processing
