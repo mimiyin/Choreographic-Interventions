@@ -81,11 +81,12 @@ How does the ability to visualize pathways change them?
 - Read chapter 2 of [Viewpoints](http://www.bam.org/media/4813887/anne-bogart-and-tina-landau-the-viewpoints-book.pdf). What is a framework? What are the parameters of choreography?
 - Read chapters 1-5 of Learning Processing
 - [Watch videos](http://learningprocessing.com/videos/) for chapters 1-5
+- ITPers: Spot the differences between JS + Java examples of random_walk. Hint: There's atleast 5 categories of differences.
 
 ## Week 2 Pathways: Drawing on air. 
 - Improv: Define a path in 3D in 5 ways.
 - Tech: Introduction to PCS, Kinect and Skeletons!
-- Code: Libraries. Functions. P3D, XYZ space. Translate, Rotate, Scale, Push/Pop Matrix. Map. Loops/Arrays.
+- Code: Booleans and Conditionals. Functions. P3D, XYZ space. Translate, Rotate, Scale, Push/Pop Matrix. Map. Loops/Arrays. Libraries. 
 
 ##### Week 2 Assignment
 - Create a 30s phrase with the Kinect Skeleton. Document.
