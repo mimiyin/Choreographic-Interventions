@@ -75,7 +75,7 @@ How does the ability to visualize pathways change them?
 ##### Week 1 Assignment
 - Book studio time.
 - Spend time on your own playing with and trying to understand the *draw_mouse* example in the Week 1 / Class folder.
-- Have a conversation about: What does it means to "draw" on the floor?
+- What does it means to "draw" on the floor?
 	- Explore the full spectrum of conversation from unison to serendipity.
 	- Play with the *draw_mouse* example to create a 30s floor drawing phrase.
 - Document your phrase. Write a short paragraph that answers the question: How does the drawing drive the choreography?
