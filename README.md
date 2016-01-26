@@ -75,6 +75,8 @@ How does the ability to visualize pathways change them?
 ##### Week 1 Assignment
 - Book studio time.
 - Spend time on your own playing with and trying to understand the *draw_mouse* example in the Week 1 / Class folder.
+   - Make use of the [Processing Reference](http://processing.org/reference/)
+   - Talk about it as a group. Help each other understand it.
 - What does it means to "draw" on the floor?
 	- Explore the full spectrum of conversation from unison to serendipity.
 	- Play with the *draw_mouse* example to create a 30s floor drawing phrase.
