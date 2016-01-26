@@ -57,7 +57,7 @@ Because course topics are organized around movement concepts, technical topics w
 
 ### What does it mean to be in conversation with technology?
 - In 2016, what do we mean when we say technology?
-- Unison --> [Call-and-Response](https://www.youtube.com/playlist?list=PLwgpQxdj6S9N0vhf-_m1OAmZn4llXBsWS) --> Open-ended Dialogue --> Collage & Chance Operations
+- Unison --> [Call-and-Response](https://www.youtube.com/playlist?list=PLwgpQxdj6S9N0vhf-_m1OAmZn4llXBsWS) --> Steering --> Counterpoint --> Serendipity
 - Why use technology at all? From [Gesamtkunstwerk](https://en.wikipedia.org/wiki/Gesamtkunstwerk) to the [I Ching](https://en.wikipedia.org/wiki/I_Ching).
 
 ### Technology
