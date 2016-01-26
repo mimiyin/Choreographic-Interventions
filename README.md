@@ -82,7 +82,7 @@ How does the ability to visualize pathways change them?
 - Upload the version of the *draw_mouse* example you used to create your 30s floor drawing.
 
 ##### Week 1 Reading : Pick and choose what you need.
-- Read chapter 2 of [Viewpoints](http://www.bam.org/media/4813887/anne-bogart-and-tina-landau-the-viewpoints-book.pdf). What is a framework? What are the parameters of choreography?
+- Read chapter 2 of [Viewpoints](http://www.bam.org/media/4813887/anne-bogart-and-tina-landau-the-viewpoints-book.pdf). What does a framework for movement look like? What are the parameters of choreography?
 - Read chapters 1-5 of Learning Processing
 - [Watch videos](http://learningprocessing.com/videos/) for chapters 1-5
 
