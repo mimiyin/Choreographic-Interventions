@@ -78,10 +78,11 @@ How does the ability to visualize pathways change them?
 	- Explore the full spectrum of dialogue from unison to serendipity.
 	- Play with the mousedrawing example to create a 30s floor drawing phrase with a wall projection.
 - Document your phrase. Answer the question: How does the drawing drive the choreography?
+
+##### Week 1 Reading : Pick and Choose what you need.
 - Read chapter 2 of [Viewpoints](http://www.bam.org/media/4813887/anne-bogart-and-tina-landau-the-viewpoints-book.pdf). What is a framework? What are the parameters of choreography?
 - Read chapters 1-5 of Learning Processing
 - [Watch videos](http://learningprocessing.com/videos/) for chapters 1-5
-- ITPers: Spot the differences between JS + Java examples of random_walk. Hint: There's atleast 5 categories of differences.
 
 ## Week 2 Pathways: Drawing on air. 
 - Improv: Define a path in 3D in 5 ways.
