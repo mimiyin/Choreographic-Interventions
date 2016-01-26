@@ -74,12 +74,14 @@ How does the ability to visualize pathways change them?
 
 ##### Week 1 Assignment
 - Book studio time.
+- Spend time on your own playing with and trying to understand the *draw_mouse* example in the Week 1 / Class folder.
 - Have a conversation about: What does it means to "draw" on the floor?
-	- Explore the full spectrum of dialogue from unison to serendipity.
-	- Play with the mousedrawing example to create a 30s floor drawing phrase with a wall projection.
-- Document your phrase. Answer the question: How does the drawing drive the choreography?
+	- Explore the full spectrum of conversation from unison to serendipity.
+	- Play with the *draw_mouse* example to create a 30s floor drawing phrase.
+- Document your phrase. Write a short paragraph that answers the question: How does the drawing drive the choreography?
+- Upload the version of the *draw_mouse* example you used to create your 30s floor drawing.
 
-##### Week 1 Reading : Pick and Choose what you need.
+##### Week 1 Reading : Pick and choose what you need.
 - Read chapter 2 of [Viewpoints](http://www.bam.org/media/4813887/anne-bogart-and-tina-landau-the-viewpoints-book.pdf). What is a framework? What are the parameters of choreography?
 - Read chapters 1-5 of Learning Processing
 - [Watch videos](http://learningprocessing.com/videos/) for chapters 1-5
