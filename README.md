@@ -83,10 +83,12 @@ How does the ability to visualize pathways change them?
 - Document your phrase. Write a short paragraph that answers the question: How does the drawing drive the choreography?
 - Upload the version of the *draw_mouse* example you used to create your 30s floor drawing.
 
-##### Week 1 Reading : Pick and choose what you need.
-- Read chapter 2 of [Viewpoints](http://www.bam.org/media/4813887/anne-bogart-and-tina-landau-the-viewpoints-book.pdf). What does a framework for movement look like? What are the parameters of choreography?
-- Read chapters 1-5 of Learning Processing
-- [Watch videos](http://learningprocessing.com/videos/) for chapters 1-5
+##### Week 1 Reading : Do the reading that is most helpful to you.
+- If you want to learn more about choreography: 
+   - Read chapter 2 of [Viewpoints](http://www.bam.org/media/4813887/anne-bogart-and-tina-landau-the-viewpoints-book.pdf). What does a framework for movement look like? What are the parameters of choreography?
+- If you need more on programming: 
+   - Read chapters 1-5 of Learning Processing
+   - [Watch videos](http://learningprocessing.com/videos/) for chapters 1-5
 
 ## Week 2 Pathways: Drawing on air. 
 - Improv: Define a path in 3D in 5 ways.
