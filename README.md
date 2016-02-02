@@ -99,7 +99,7 @@ How does the ability to visualize pathways change them?
 - Play with Kinect v2 by drawing with at least 3 different joints using the *Skeleton3d_joint_by_joint* example.
    - Try decoding the example using [the process we practiced in class](https://github.com/mimiyin/Choreographic-Interventions/wiki/Decoding-Code). 
    - Get as far as you can, we'll go over it together in class next week!
-   - Try changing how the trail is being drawn. Post your sketch to our Week 2 / Assignments folder on Google Drive.
+- Try changing how the trail is being drawn. Post your sketch to our *Week 2 / Assignments* folder on Google Drive.
 - Work individually. Everybody should create their own modified sketch. But by all means get together to help each other! 
  
 ##### Week 2 Reading: Choose what you need.
