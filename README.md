@@ -97,7 +97,8 @@ How does the ability to visualize pathways change them?
 
 ##### Week 2 Assignment
 - Play with Kinect v2 by drawing with at least 3 different joints using the *Skeleton3d_joint_by_joint* example.
-- Try changing how the trail is being drawn. Post your sketch to our Week 2 / Assignments folder on Google Drive.
+   - Try decoding the example using [the process we practiced in class](https://github.com/mimiyin/Choreographic-Interventions/wiki/Decoding-Code). Get as far as you can, we will go over it together in class next week.
+   - Try changing how the trail is being drawn. Post your sketch to our Week 2 / Assignments folder on Google Drive.
  
 ##### Week 2 Reading: Choose what you need.
 - Watch [Forsythe Technique Videos](https://www.youtube.com/user/GrandpaSafari/videos): They range from 10s to 1 minute. Very short!
