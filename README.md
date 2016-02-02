@@ -91,9 +91,9 @@ How does the ability to visualize pathways change them?
    - [Watch videos](http://learningprocessing.com/videos/) for chapters 1-5
 
 ## Week 2 Pathways: Drawing on air. 
-- Improv: Define a path in 3D in 5 ways.
 - Tech: Introduction to PCS, Kinect and Skeletons!
-- Code: Booleans and Conditionals. Functions. P3D, XYZ space. Translate, Rotate, Scale, Push/Pop Matrix. Map. Loops/Arrays. Libraries. 
+- Process: How to [decode code to have a conversation about it](https://github.com/mimiyin/Choreographic-Interventions/wiki/Decoding-Code).
+- Code: Variables. Functions. Loops/Arrays. Libraries. 
 
 ##### Week 2 Assignment
 - Play with Kinect v2 by drawing with at least 3 different joints using the *Skeleton3d_joint_by_joint* example.
@@ -106,9 +106,14 @@ How does the ability to visualize pathways change them?
    - 23 videos that starte with Forsythe-Lines
 - Read chapters 7 (Functions), 6 (Loops), 9 (Arrays), 23-4 (ArrayLists) of Learning Processing
 - [Watch videos](http://learningprocessing.com/videos/) for chapters 7, 6, 9
-- Videos from Nature of Code on ArrayLists: [Introduction](https://vimeo.com/channels/natureofcode/60027379) | [Deleting from ArrayLists](https://vimeo.com/channels/natureofcode/60027381),
 
-## Week 3 Shape: Playing with shadows.
+## Week 3 Pathways: Drawing on air.
+- Improv: Drawing on the floor.
+- Improv: Define a path in 3D in 5 ways.
+- Tech: More Kinect and Skeletons
+- Code: XYZ space. Booleans and Conditionals. Functions. Loops/Arrays. Libraries. 
+
+## Week 4 Shape: Playing with shadows.
 How does changing the way the body is represented, change the quality of movement?
 - Geography of the body.
 - Improv: Ways to get to know your body.
@@ -117,19 +122,19 @@ How does changing the way the body is represented, change the quality of movemen
 - Code: Complex shapes, lines, curves.
 - Improv: Playing with shadows.
 
-##### Week 3 Assignment
+##### Week 4 Assignment
 - Create a shadow dance. Document.
 - Bring a piece of clothing that changes the shape of your body to class next week.
 - Read Chapter 7 of [Dynamic Alignment](https://books.google.com/books?id=CBwV_g8DhEMC&lpg=PA2&ots=nRQ2JS3SWv&dq=dynamic%20alignment%20chapters&pg=PP1#v=onepage&q&f=false)
 
-## Week 4 Texture: Lying on sand.
+## Week 5 Texture: Lying on sand.
 - Visual imagery, why use it?
 - Improv: Lie on the ground as if it is sand.
 - Technology: Kinect point cloud.
 - Improv: Stand as if body is made of tiny bubbles.
 - Code: Loops/Arrays. Vectors. Images and Video. strokeWeight, color, alpha, textures. 
 
-##### Week 4 Assignment
+##### Week 5 Assignment
 - Create 30s of movement material that moves through at least 3 different representations of the body. Document.
 
 ## Space
