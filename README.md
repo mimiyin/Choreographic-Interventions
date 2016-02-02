@@ -98,11 +98,14 @@ How does the ability to visualize pathways change them?
 ##### Week 2 Assignment
 - Play with Kinect v2 by drawing with at least 3 different joints using the *Skeleton3d_joint_by_joint* example.
 - Try changing how the trail is being drawn. Post your sketch to our Week 2 / Assignments folder on Google Drive.
-- Watch Forsythe Technique Videos: They range between 10s and 1 minute. Very short!
+ 
+##### Week 2 Reading: Choose what you need.
+- Watch Forsythe Technique Videos: They range from 10s to 1 minute. Very short!
    - 16 videos that start with Forsythe-Writing
    - 23 videos that starte with Forsythe-Lines
-- Read chapters 7, 6, 9 of Learning Processing
+- Read chapters 7 (Functions), 6 (Loops), 9 (Arrays), 23-4 (ArrayLists) of Learning Processing
 - [Watch videos](http://learningprocessing.com/videos/) for chapters 7, 6, 9
+- Videos from Nature of Code on ArrayLists: [Introduction](https://vimeo.com/channels/natureofcode/60027379) | [Deleting from ArrayLists](https://vimeo.com/channels/natureofcode/60027381),
 
 ## Week 3 Shape: Playing with shadows.
 How does changing the way the body is represented, change the quality of movement?
