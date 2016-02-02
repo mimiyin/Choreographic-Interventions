@@ -96,8 +96,12 @@ How does the ability to visualize pathways change them?
 - Code: Booleans and Conditionals. Functions. P3D, XYZ space. Translate, Rotate, Scale, Push/Pop Matrix. Map. Loops/Arrays. Libraries. 
 
 ##### Week 2 Assignment
-- Create a 30s phrase with the Kinect Skeleton. Document.
-- Read chapters 14, 7, 6, 9 of Learning Processing
+- Play with Kinect v2 by drawing with at least 3 different joints using the *Skeleton3d_joint_by_joint* example.
+- Try changing how the trail is being drawn.
+- Watch Forsythe Technique Videos: They range between 10s and 1 minute. Very short!
+   - 16 videos that start with Forsythe-Writing
+   - 23 videos that starte with Forsythe-Lines
+- Read chapters 7, 6, 9 of Learning Processing
 - [Watch videos](http://learningprocessing.com/videos/) for chapters 7, 6, 9
 
 ## Week 3 Shape: Playing with shadows.
