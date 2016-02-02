@@ -100,7 +100,7 @@ How does the ability to visualize pathways change them?
 - Try changing how the trail is being drawn. Post your sketch to our Week 2 / Assignments folder on Google Drive.
  
 ##### Week 2 Reading: Choose what you need.
-- Watch Forsythe Technique Videos: They range from 10s to 1 minute. Very short!
+- Watch [Forsythe Technique Videos](https://www.youtube.com/user/GrandpaSafari/videos): They range from 10s to 1 minute. Very short!
    - 16 videos that start with Forsythe-Writing
    - 23 videos that starte with Forsythe-Lines
 - Read chapters 7 (Functions), 6 (Loops), 9 (Arrays), 23-4 (ArrayLists) of Learning Processing
