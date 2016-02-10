@@ -117,7 +117,7 @@ How does the ability to visualize pathways change them?
 - Code: PVectors. Loops/Arrays. Functions. Conditionals.
 
 ##### Week 3 Assignment
-- Combine the draw_mouse example with the kinect joint_by_joint example.
+- Combine the *draw_mouse* example with the kinect *3d_skeleton_joint_by_joint* example.
 - Create a 90s duet between a drawer controlling the mouse and a dance drawing with joints.
 - Document with video and [post here](https://github.com/mimiyin/Choreographic-Interventions/wiki/Assignments). Come prepared to show your work and talk about your process! [See guidelines here.](https://github.com/mimiyin/Choreographic-Interventions/wiki/Talking-About-Process)
 
