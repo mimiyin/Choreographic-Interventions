@@ -116,6 +116,11 @@ How does the ability to visualize pathways change them?
 - Tech: More Kinect and Skeletons
 - Code: XYZ space. Booleans and Conditionals. Functions. Loops/Arrays. Libraries. 
 
+##### Week 3 Assignment
+- Combine the draw_mouse example with the kinect joint_by_joint example.
+- Create a 90s duet between a drawer controlling the mouse and a dance drawing with joints
+- Document with video and [post here](https://github.com/mimiyin/Choreographic-Interventions/wiki/Assignments). Come prepared to show your work and talk about your process!
+
 ## Week 4 Shape: Playing with shadows.
 How does changing the way the body is represented, change the quality of movement?
 - Geography of the body.
