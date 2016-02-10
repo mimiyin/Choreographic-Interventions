@@ -114,12 +114,12 @@ How does the ability to visualize pathways change them?
 - Improv: Drawing on the floor.
 - Improv: Define a path in 3D in 5 ways.
 - Tech: More Kinect and Skeletons
-- Code: XYZ space. Booleans and Conditionals. Functions. Loops/Arrays. Libraries. 
+- Code: PVectors. Loops/Arrays. Functions. Conditionals.
 
 ##### Week 3 Assignment
 - Combine the draw_mouse example with the kinect joint_by_joint example.
-- Create a 90s duet between a drawer controlling the mouse and a dance drawing with joints
-- Document with video and [post here](https://github.com/mimiyin/Choreographic-Interventions/wiki/Assignments). Come prepared to show your work and talk about your process!
+- Create a 90s duet between a drawer controlling the mouse and a dance drawing with joints.
+- Document with video and [post here](https://github.com/mimiyin/Choreographic-Interventions/wiki/Assignments). Come prepared to show your work and talk about your process! [See guidelines here.](https://github.com/mimiyin/Choreographic-Interventions/wiki/Talking-About-Process)
 
 ## Week 4 Shape: Playing with shadows.
 How does changing the way the body is represented, change the quality of movement?
