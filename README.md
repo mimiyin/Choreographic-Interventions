@@ -131,7 +131,10 @@ How does changing the way the body is represented, change the quality of movemen
 - Improv: Playing with shadows.
 
 ##### Week 4 Assignment
-- Create a shadow dance. Document.
+- Experiment with shadows using a light and the Processing sketches. 
+   - Modify the sketches.
+   - Try projecting shadows on different planes: Floor, ceiling, side walls.
+   - Come back with 3 things you learned about shadows. 
 - Bring a piece of clothing that changes the shape of your body to class next week.
 - Read Chapter 7 of [Dynamic Alignment](https://books.google.com/books?id=CBwV_g8DhEMC&lpg=PA2&ots=nRQ2JS3SWv&dq=dynamic%20alignment%20chapters&pg=PP1#v=onepage&q&f=false)
 
