@@ -122,11 +122,10 @@ How does the ability to visualize pathways change them?
 - Document with video and [post here](https://github.com/mimiyin/Choreographic-Interventions/wiki/Assignments). Come prepared to show your work and talk about your process! [See guidelines here.](https://github.com/mimiyin/Choreographic-Interventions/wiki/Talking-About-Process)
 
 ## Week 4 Shape: Playing with shadows.
-Showing!
-
 How does changing the way the body is represented, change the quality of movement?
 - Improv: Playing with shadows.
 - Code: Bouncing ball. Polar roses.
+- Vidoes: [Fase / ROSAS](https://www.youtube.com/watch?v=RTke1tQztpQ&feature=youtu.be&t=100) | [Shadowlight](https://drive.google.com/a/nyu.edu/file/d/0B_lnhZP0dCt8T3BIVmE3bEVSb2c/view?usp=sharing)
 
 
 ##### Week 4 Assignment
