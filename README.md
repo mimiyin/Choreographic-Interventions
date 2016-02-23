@@ -123,12 +123,9 @@ How does the ability to visualize pathways change them?
 
 ## Week 4 Shape: Playing with shadows.
 How does changing the way the body is represented, change the quality of movement?
-- Geography of the body.
-- Improv: Ways to get to know your body.
-- Improv: Dancing with suits.
-- Tech: Re-drawing the Skeleton with shapes
-- Code: Complex shapes, lines, curves.
 - Improv: Playing with shadows.
+- Code: Bouncing ball. Polar roses.
+
 
 ##### Week 4 Assignment
 - Experiment with shadows using a light and the Processing sketches. 
@@ -139,11 +136,15 @@ How does changing the way the body is represented, change the quality of movemen
 - Read Chapter 7 of [Dynamic Alignment](https://books.google.com/books?id=CBwV_g8DhEMC&lpg=PA2&ots=nRQ2JS3SWv&dq=dynamic%20alignment%20chapters&pg=PP1#v=onepage&q&f=false)
 
 ## Week 5 Texture: Lying on sand.
+- Geography of the body.
+- Improv: Ways to get to know your body.
+- Improv: Dancing with suits.
+- Tech: Re-drawing the Skeleton with shapes
+- Code: Complex shapes, lines, curves.
 - Visual imagery, why use it?
-- Improv: Lie on the ground as if it is sand.
+- Improv: Lie on the ground as if it is sand. Stand as if body is made of tiny bubbles.
 - Technology: Kinect point cloud.
-- Improv: Stand as if body is made of tiny bubbles.
-- Code: Loops/Arrays. Vectors. Images and Video. strokeWeight, color, alpha, textures. 
+- Code: Images and Video. strokeWeight, color, alpha, textures. 
 
 ##### Week 5 Assignment
 - Create 30s of movement material that moves through at least 3 different representations of the body. Document.
