@@ -141,14 +141,24 @@ How does changing the way the body is represented, change the quality of movemen
 - Improv: Ways to get to know your body.
 - Improv: Dancing with suits.
 - Tech: Re-drawing the Skeleton with shapes
-- Code: Complex shapes, lines, curves.
+- Code: 3d shapes. Complex shapes with vertices. Color.
 - Visual imagery, why use it?
 - Improv: Lie on the ground as if it is sand. Stand as if body is made of tiny bubbles.
-- Technology: Kinect point cloud.
-- Code: Images and Video. strokeWeight, color, alpha, textures. 
+- Technology: Kinect point cloud. OpenCV contours.
+- Code: Alpha. Nested loops. Closest/Farthest point. 
 
 ##### Week 5 Assignment
-- Create 30s of movement material that moves through at least 3 different representations of the body. Document.
+- Create a representation of the human form. Meet with your group. Pick the most "versatile" one, explain why in your documentation.
+
+##### Week 5 Reading
+- Read and Watch Learning Processing ([Video](http://learningprocessing.com/videos/) + Book)
+   - Chapter 6.5 on Nested Loops
+   - Chapter 2.1 on Color
+   - Chapter 15.0 on Images
+   - Chapter 16.0 on Video
+- Vector Math and PVectors in Processing 
+   - Read [Chapter 1 of Nature of Code](http://natureofcode.com/book/chapter-1-vectors/)
+   - Watch videos 1.1 - 1.4 for [Nature of Code](https://vimeo.com/channels/natureofcode/videos)  
 
 ## Space
 Points, lines and curves. Bodies as architecture. Moving in relation to architecture.
