@@ -152,10 +152,7 @@ How does changing the way the body is represented, change the quality of movemen
 
 ##### Week 5 Reading
 - Read and Watch Learning Processing ([Video](http://learningprocessing.com/videos/) + Book)
-   - Chapter 6.5 on Nested Loops
    - Chapter 2.1 on Color
-   - Chapter 15.0 on Images
-   - Chapter 16.0 on Video
 - Vector Math and PVectors in Processing 
    - Read [Chapter 1 of Nature of Code](http://natureofcode.com/book/chapter-1-vectors/)
    - Watch videos 1.1 - 1.4 for [Nature of Code](https://vimeo.com/channels/natureofcode/videos)  
@@ -163,14 +160,21 @@ How does changing the way the body is represented, change the quality of movemen
 ## Space
 Points, lines and curves. Bodies as architecture. Moving in relation to architecture.
 - Defining space.
-- Dividing	space.
-- Projecting	lines	and	planes.
+- Dividing space.
+- Projecting lines and planes.
 - Arcs and curves.
 - Meshes and webs.
 
-#####Example in-class improvs: Walking the grid. Build	a	yarn	sculpture	by	projecting lines from	bodies in	the	room.
+## Week 6 Space: Defining space with light.
+- Video Jiri Kylian | NDT : [Sweet Dreams](http://www.numeridanse.tv/en/video/1046_sweet-dreams)
 
-#####Topic Study: Define	space	with 1 or more bodies.
+##### Week 6 Assignment
+- Create 3 simple studies of how to move people through space with light.
+- Meet as a group and combine at least 3 of your sketches into a single structured improvisations.
+- Decide how many people are in your improv and what the default movement is. (e.g. Free-style? Turning in place. Hopping.)
+
+##### Week 6 Reading
+- Read Learning Processing Chapter 14 on 3D, Translation and Rotation
 
 ##Timing + Pacing
 - Rhythm v. Tempo
