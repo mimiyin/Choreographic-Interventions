@@ -165,15 +165,15 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 - Arcs and curves.
 - Meshes and webs.
 
-## Week 6 Space: Defining space with light.
+## Week 6/7 Space: Defining space with light.
 - Video Jiri Kylian | NDT : [Sweet Dreams](http://www.numeridanse.tv/en/video/1046_sweet-dreams)
 
-##### Week 6 Assignment
+##### Week 6/7 Assignment
 - Create 3 simple studies of how to move people through space with light.
 - Meet as a group and combine at least 3 of your sketches into a single structured improvisations.
 - Decide how many people are in your improv and what the default movement is. (e.g. Free-style? Turning in place. Hopping.)
 
-##### Week 6 Reading
+##### Week 6/7 Reading
 - Read Learning Processing Chapter 14 on 3D, Translation and Rotation
 
 ##Timing + Pacing
