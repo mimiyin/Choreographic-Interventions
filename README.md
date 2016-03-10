@@ -157,6 +157,15 @@ How does changing the way the body is represented, change the quality of movemen
    - Read [Chapter 1 of Nature of Code](http://natureofcode.com/book/chapter-1-vectors/)
    - Watch videos 1.1 - 1.4 for [Nature of Code](https://vimeo.com/channels/natureofcode/videos)  
 
+## Week 6: Review Shape exercises and Guests
+- Rosalie Yu
+- J.H. Moon
+- 
+
+##### Week 6 Assignment
+- Take lots of pictures of light defining space.
+- Pick 3 you'd like to explore in code.
+
 ## Space
 Points, lines and curves. Bodies as architecture. Moving in relation to architecture.
 - Defining space.
@@ -165,16 +174,17 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 - Arcs and curves.
 - Meshes and webs.
 
-## Week 6/7 Space: Defining space with light.
+## Week 7 Space: Defining space with light.
 - Video Jiri Kylian | NDT : [Sweet Dreams](http://www.numeridanse.tv/en/video/1046_sweet-dreams)
 
-##### Week 6/7 Assignment
+##### Week 7 Assignment
 - Create 3 simple studies of how to move people through space with light.
 - Meet as a group and combine at least 3 of your sketches into a single structured improvisations.
 - Decide how many people are in your improv and what the default movement is. (e.g. Free-style? Turning in place. Hopping.)
 
-##### Week 6/7 Reading
+##### Week 7 Reading
 - Read Learning Processing Chapter 14 on 3D, Translation and Rotation
+- Read and [watch videos](http://learningprocessing.com/videos/) for Learning Processing Chapter 6 on Loops
 
 ##Timing + Pacing
 - Rhythm v. Tempo
