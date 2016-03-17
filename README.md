@@ -185,9 +185,8 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 
 ##### Week 7 Reading
 - Read Learning Processing Chapter 14 on 3D, Translation and Rotation
-- Read and [watch videos](http://learningprocessing.com/videos/) for Learning Processing Chapter 6 on Loops
 
-##### Week 8 Space
+## Week 8 Space
 - Combining simple shapes into complex shapes
 - Grids
 - Meshes
@@ -197,6 +196,9 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 - Meet as a group and combine at least 3 of your sketches into a single structured improvisation.
 - Decide how many people will "define" space and what the default movement is. (e.g. Free-style? Turning in place. Hopping.)
 - User test your improv. We will attempt it in class!
+
+##### Week 8 Reading
+- Read and [watch videos](http://learningprocessing.com/videos/) for Learning Processing Chapter 6 on Loops
 
 ##Timing + Pacing
 - Rhythm v. Tempo
