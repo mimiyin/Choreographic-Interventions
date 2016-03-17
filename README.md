@@ -190,7 +190,7 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 - Combining simple shapes into complex shapes
 - Grids
 - Meshes
-- Code: For loops revisited. Sin/Cos/Tan.
+- Code: For loops revisited. Modulo. Sin/Cos/Tan.
 
 ##### Week 8 Assignment
 - Meet as a group and combine at least 3 of your sketches into a single structured improvisation.
