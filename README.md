@@ -175,7 +175,7 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 
 ## Week 7 Space: Defining space with light.
 - Video Jiri Kylian | NDT : [Sweet Dreams](http://www.numeridanse.tv/en/video/1046_sweet-dreams)
-- How does the design of the court and rules of play drive motion in a game of basketball?
+- How does the [design of the court](http://www.conceptdraw.com/solution-park/sport-basketball) and rules of play drive motion in a game of basketball?
 - [Kazimir Malevich](http://www.wikiart.org/en/kazimir-malevich/mode/all-paintings/3) and [Suprematism](https://en.wikipedia.org/wiki/Suprematism)
 - [Barnett Newman](http://www.wikiart.org/en/barnett-newman/mode/all-paintings) | [Vir heroicus sublimis](http://www.wikiart.org/en/search/barnett%20newman/1#supersized-search-265196)
 - Code: Translate, Rotate, Push/Pop Matrix.
