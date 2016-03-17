@@ -178,19 +178,20 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 - How does the [design of the court](http://www.conceptdraw.com/solution-park/sport-basketball) and rules of play drive motion in a game of basketball?
 - [Kazimir Malevich](http://www.wikiart.org/en/kazimir-malevich/mode/all-paintings/3) and [Suprematism](https://en.wikipedia.org/wiki/Suprematism)
 - [Barnett Newman](http://www.wikiart.org/en/barnett-newman/mode/all-paintings) | [Vir heroicus sublimis](http://www.wikiart.org/en/search/barnett%20newman/1#supersized-search-265196)
-- Code: Translate, Rotate, Push/Pop Matrix.
+- Code: Translate, Rotate, Push/Pop Matrix, For loops.
 
 ##### Week 7 Assignment
 - Create 3 simple studies of how to move people through space with light.
 
 ##### Week 7 Reading
 - Read Learning Processing Chapter 14 on 3D, Translation and Rotation
+- Read and [watch videos](http://learningprocessing.com/videos/) for Learning Processing Chapter 6 on Loops
 
 ## Week 8 Space
 - Combining simple shapes into complex shapes
 - Grids
 - Meshes
-- Code: For loops revisited. Modulo. Sin/Cos/Tan.
+- Code: Nested for loops. Modulo. Sin/Cos/Tan.
 
 ##### Week 8 Assignment
 - Meet as a group and combine at least 3 of your sketches into a single structured improvisation.
@@ -198,7 +199,7 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 - User test your improv. We will attempt it in class!
 
 ##### Week 8 Reading
-- Read and [watch videos](http://learningprocessing.com/videos/) for Learning Processing Chapter 6 on Loops
+- Read and [watch videos](http://learningprocessing.com/videos/) for Learning Processing Chapter 6.6 on Nested Loops
 
 ##Timing + Pacing
 - Rhythm v. Tempo
