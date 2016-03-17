@@ -160,7 +160,6 @@ How does changing the way the body is represented, change the quality of movemen
 ## Week 6: Review Shape exercises and Guests
 - Rosalie Yu
 - J.H. Moon
-- 
 
 ##### Week 6 Assignment
 - Take lots of pictures of light defining space.
@@ -208,13 +207,11 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 
 #####Topic Study: Build a polyrhythm.
 
-##Sound + Text
+##Sound + Text + Live Image Processing
 Translating	movement	into	non-visual	media:	Sound	and	Text
-- Mapping	movement to sound.
-- Mapping	"gesture" to text.
-- Appropriating	poetic devices for generating patterns of movement:	Meter, Repetition, Retrograde, Elision, Alliteration and	Rhyme.
-
-#####Example improv: Shushing	walk.	Translate	a	poem	into	movement. "Write"	a	poem	with	movement.
+- Mapping movement to sound.
+- Mapping "gesture" to text.
+- Live image processing: Slit-scan, difference, mirrors.
 
 #####Topic Study: Create a conversation between movement and sound or text.
 
