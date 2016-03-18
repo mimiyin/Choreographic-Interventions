@@ -187,8 +187,8 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 - Read Learning Processing Chapter 14 on 3D, Translation and Rotation
 - Read and [watch videos](http://learningprocessing.com/videos/) for Learning Processing Chapter 6 on Loops
 
-## Week 8 Space
-- Combining simple shapes into complex shapes
+## Week 8 Terrains
+- Combining simple shape animations to create complex ones
 - Grids
 - Meshes
 - Code: Nested for loops. Modulo. Sin/Cos/Tan.
