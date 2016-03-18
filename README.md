@@ -191,7 +191,7 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 - Combining simple shape animations to create complex ones
 - Grids
 - Meshes
-- Code: Nested for loops. Modulo. Sin/Cos/Tan.
+- Code: Nested for loops. Arrays. 2D Arrays. Modulo. Sin/Cos/Tan.
 
 ##### Week 8 Assignment
 - Meet as a group and combine at least 3 of your sketches into a single structured improvisation.
@@ -200,11 +200,16 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 
 ##### Week 8 Reading
 - Read and [watch videos](http://learningprocessing.com/videos/) for Learning Processing Chapter 6.6 on Nested Loops
+- Read and [watch videos](http://learningprocessing.com/videos/) for Learning Processing Chapter 9 on Arrays
+- Read about [2D Arrays](https://processing.org/tutorials/2darray/)
 
 ##Timing + Pacing
-- Rhythm v. Tempo
+- Rhythm v. Tempo, Timing v. Pacing
+- Coding metronomes
 - Building polyrhythyms
 - Dynamic pacing with [Easing](http://easings.net/) + [Zeno's Paradox](https://en.wikipedia.org/wiki/Zeno%27s_paradoxes)
+- Graphing pacing
+- Code: Modulo
 
 #####Example in-class improvs: [Human metronomes](https://www.youtube.com/watch?v=QCp7bL-AWvw)
 
