@@ -181,7 +181,9 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 - Code: Translate, Rotate, Push/Pop Matrix, For loops.
 
 ##### Week 7 Assignment
-- Create 3 simple studies of how to move people through space with light.
+- Create 1-3 simple studies of how to move people through space with basic shapes.
+- Have some ideas about how people will define/interpret the space.
+- We will try a few in class!
 
 ##### Week 7 Reading
 - Read Learning Processing Chapter 14 on 3D, Translation and Rotation
