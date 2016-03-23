@@ -187,13 +187,12 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 
 ##### Week 7 Reading
 - Read Learning Processing Chapter 14 on 3D, Translation and Rotation
-- Read and [watch videos](http://learningprocessing.com/videos/) for Learning Processing Chapter 6 on Loops
 
 ## Week 8 Terrains
 - Combining simple shape animations to create complex ones
 - Grids
 - Meshes
-- Code: Nested for loops. Arrays. 2D Arrays. Sin/Tan.
+- Code: Loops. Nested for loops. Arrays. 2D Arrays. Sin/Tan.
 
 ##### Week 8 Assignment
 - Meet as a group and combine at least 3 of your sketches into a single structured improvisation.
@@ -201,6 +200,7 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 - User test your improv. We will attempt it in class!
 
 ##### Week 8 Reading
+- Read and [watch videos](http://learningprocessing.com/videos/) for Learning Processing Chapter 6 on Loops
 - Read and [watch videos](http://learningprocessing.com/videos/) for Learning Processing Chapter 6.6 on Nested Loops
 - Read and [watch videos](http://learningprocessing.com/videos/) for Learning Processing Chapter 9 on Arrays
 - Read about [2D Arrays](https://processing.org/tutorials/2darray/)
