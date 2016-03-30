@@ -196,9 +196,10 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 - Code: Loops. Nested for loops. Arrays. 2D Arrays.
 
 ##### Week 8 Assignment
-- Meet as a group and combine your sketches into a single structured improvisation.
-- Decide how many people will "define" space and what the default movement is. (e.g. Free-style? Turning in place. Hopping.)
-- User test your improv. We will attempt them in class!
+- Meet as a group and combine your sketches into a single structured improvisation or strike out in a completely new direction.
+- Decide how many people you need.
+- Define rules for how they will interact with your space / terrain.
+- Try your improv. We will attempt them in class!
 
 ##### Week 8 Reading
 - Read pgs. 44-47 of [The Viewpoints Book](http://www.amazon.com/The-Viewpoints-Book-Practical-Composition/dp/1559362413) | [PDF](http://www.bam.org/media/4813887/anne-bogart-and-tina-landau-the-viewpoints-book.pdf) on Spatial Relationships and Topographies.
