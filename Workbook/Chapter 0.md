@@ -35,15 +35,15 @@ Instead, this is a practical/studio art class, which is also why this is a workb
 
 Can you take the technology out of a dance?
 
-Would the dance still be the dance without the technology? Like Don Quixote is still Don Quixote without the lavish sets and costumes?
+Would the dance still be the dance without the technology? Like Don Quixote is still Don Quixote without the lavish sets and costumes? Pas de deux: [Set](https://www.youtube.com/embed/0q5pGSqyFa0) | [No set](https://www.youtube.com/embed/FHLjVBq_zm0)
 
-<iframe width="49.5%" height="28%" src="https://www.youtube.com/embed/0q5pGSqyFa0" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe width="49.5%" height="28%" src="https://www.youtube.com/embed/0q5pGSqyFa0" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="49.5%" height="28%" src="https://www.youtube.com/embed/FHLjVBq_zm0" frameborder="0" allowfullscreen></iframe>
+<iframe width="49.5%" height="28%" src="https://www.youtube.com/embed/FHLjVBq_zm0" frameborder="0" allowfullscreen></iframe> -->
 
-Or is the technology more like a mutation? Changing the very nature of the dance so that “dance and technology” (separate entities) becomes “dancetech” (harder to break apart)? Like how movement and choreography in a Robert Wilson production is not a dance, anymore than the set and lighting, costumes and make-up are a separable work of visual art. They are all just part of a whole, a gestalt. Each component on its own is meaningless.
+Or is the technology more like a mutation? Changing the very nature of the dance so that “dance and technology” (separate entities) becomes “dancetech” (harder to break apart)? Like how movement and choreography in a Robert Wilson production is not a dance, anymore than the set and lighting, costumes and make-up are a separable work of visual art. They are all just part of a whole, a gestalt. Each component on its own is meaningless. [Einstein on Beach: The Changing Image of Opera](https://www.youtube.com/embed/9Zsd-K5aKyI?list=PLYYA5867DgQOppOWarqlCHbIzrWebpfye)
 
-<iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/9Zsd-K5aKyI?list=PLYYA5867DgQOppOWarqlCHbIzrWebpfye" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/9Zsd-K5aKyI?list=PLYYA5867DgQOppOWarqlCHbIzrWebpfye" frameborder="0" allowfullscreen></iframe> -->
 
 What do we mean by technology?
 
@@ -68,33 +68,27 @@ For our part, we are going to look at code technology you can author) and as a r
 
 What does technology offer dance?
 
-	Spectacle.
+	Spectacle. [Ryoji Ikeda](https://www.youtube.com/embed/omDK2Cm2mwo)
 
-  <iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/omDK2Cm2mwo" frameborder="0" allowfullscreen></iframe>
+  <!-- <iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/omDK2Cm2mwo" frameborder="0" allowfullscreen></iframe> -->
 
-	New perspectives.
-  <iframe width="32.5%" height="18.75%" src="https://www.youtube.com/embed/RttY4nmTqPw" frameborder="0" allowfullscreen></iframe>
+	New perspectives. [First Person POV](https://www.youtube.com/embed/RttY4nmTqPw) | [360](https://www.youtube.com/embed/yo2keosacZY) | [High Framerate](https://www.youtube.com/embed/_S-UGJ21TVE)
 
+  <!-- <iframe width="32.5%" height="18.75%" src="https://www.youtube.com/embed/RttY4nmTqPw" frameborder="0" allowfullscreen></iframe>
   <iframe width="32.5%" height="18.75%" src="https://www.youtube.com/embed/yo2keosacZY" frameborder="0" allowfullscreen></iframe>
+  <iframe width="32.5%" height="18.75%" src="https://www.youtube.com/embed/_S-UGJ21TVE" frameborder="0" allowfullscreen></iframe> -->
 
-  <iframe width="32.5%" height="18.75%" src="https://www.youtube.com/embed/_S-UGJ21TVE" frameborder="0" allowfullscreen></iframe>
+	Precision and Scale. [NAO Robot](https://www.youtube.com/embed/n8-SSwKMGnY)
 
-	Interactivity
+  <!-- <iframe width="33%" height="18.75%" src="https://www.youtube.com/embed/n8-SSwKMGnY" frameborder="0" allowfullscreen></iframe> -->
 
-	Precision and Scale
+	Analysis. Synchronous Objects [Video](https://www.youtube.com/embed/v2REtWg6-bo) | [Website](http://synchronousobjects.osu.edu/)
+  <!-- <iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/v2REtWg6-bo" frameborder="0" allowfullscreen></iframe> -->
 
-  <iframe width="33%" height="18.75%" src="https://www.youtube.com/embed/n8-SSwKMGnY" frameborder="0" allowfullscreen></iframe>
+	Composition. Biped by Merce Cunningham [Analysis](http://sanjoyroy.net/2000/10/merce-cunningham-biped-where-flesh-meets-form/) | [Video](https://www.youtube.com/embed/YHeoYdDMbLI) | [Pathfinder](https://player.vimeo.com/video/111361109?title=0&byline=0&portrait=0&badge=0)
 
-	Analysis
-  <iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/v2REtWg6-bo" frameborder="0" allowfullscreen></iframe>
-
-	Composition
-
-  [Analysis of Biped by Merce Cunningham](http://sanjoyroy.net/2000/10/merce-cunningham-biped-where-flesh-meets-form/)
-
-  <iframe width="49.5%" height="28%" src="https://www.youtube.com/embed/ec-xnsm0pm0?list=PLUwHVm1ByQT-RAY1wNIwHO2SXkVZU5gAa" frameborder="0" allowfullscreen></iframe>
-
-  <iframe src="https://player.vimeo.com/video/111361109?title=0&byline=0&portrait=0&badge=0" width="49.5%" height="28%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <!-- <iframe width="49.5%" height="28%" src="https://www.youtube.com/embed/YHeoYdDMbLI" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/111361109?title=0&byline=0&portrait=0&badge=0" width="49.5%" height="28%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 
 What about increased sensitivity?
 
