@@ -70,25 +70,26 @@ What does technology offer dance?
 
 Immersion. [Ryoji Ikeda](https://www.youtube.com/embed/omDK2Cm2mwo)
 
-  <!-- <iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/omDK2Cm2mwo" frameborder="0" allowfullscreen></iframe> -->
+  <iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/omDK2Cm2mwo" frameborder="0" allowfullscreen></iframe>
 
 New perspectives. [First Person POV](https://www.youtube.com/embed/RttY4nmTqPw) | [360](https://www.youtube.com/embed/yo2keosacZY) | [High Framerate](https://www.youtube.com/embed/_S-UGJ21TVE)
 
-  <!-- <iframe width="32.5%" height="18.75%" src="https://www.youtube.com/embed/RttY4nmTqPw" frameborder="0" allowfullscreen></iframe>
+  <iframe width="32.5%" height="18.75%" src="https://www.youtube.com/embed/RttY4nmTqPw" frameborder="0" allowfullscreen></iframe>
   <iframe width="32.5%" height="18.75%" src="https://www.youtube.com/embed/yo2keosacZY" frameborder="0" allowfullscreen></iframe>
-  <iframe width="32.5%" height="18.75%" src="https://www.youtube.com/embed/_S-UGJ21TVE" frameborder="0" allowfullscreen></iframe> -->
+  <iframe width="32.5%" height="18.75%" src="https://www.youtube.com/embed/_S-UGJ21TVE" frameborder="0" allowfullscreen></iframe>
 
 Precision and Scale. [NAO Robot](https://www.youtube.com/embed/n8-SSwKMGnY)
 
-  <!-- <iframe width="33%" height="18.75%" src="https://www.youtube.com/embed/n8-SSwKMGnY" frameborder="0" allowfullscreen></iframe> -->
+  <iframe width="33%" height="18.75%" src="https://www.youtube.com/embed/n8-SSwKMGnY" frameborder="0" allowfullscreen></iframe>
 
 Analysis. Synchronous Objects [Video](https://www.youtube.com/embed/v2REtWg6-bo) | [Website](http://synchronousobjects.osu.edu/)
-  <!-- <iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/v2REtWg6-bo" frameborder="0" allowfullscreen></iframe> -->
+
+  <iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/v2REtWg6-bo" frameborder="0" allowfullscreen></iframe>
 
 Composition. Biped by Merce Cunningham [Analysis](http://sanjoyroy.net/2000/10/merce-cunningham-biped-where-flesh-meets-form/) | [Video](https://www.youtube.com/embed/YHeoYdDMbLI) | [Pathfinder](https://player.vimeo.com/video/111361109?title=0&byline=0&portrait=0&badge=0)
 
-  <!-- <iframe width="49.5%" height="28%" src="https://www.youtube.com/embed/YHeoYdDMbLI" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://player.vimeo.com/video/111361109?title=0&byline=0&portrait=0&badge=0" width="49.5%" height="28%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+  <iframe width="49.5%" height="28%" src="https://www.youtube.com/embed/YHeoYdDMbLI" frameborder="0" allowfullscreen></iframe>  
+  <iframe src="https://player.vimeo.com/video/111361109?title=0&byline=0&portrait=0&badge=0" width="49.5%" height="28%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 What about increased sensitivity?
 
