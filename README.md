@@ -65,7 +65,7 @@ Because course topics are organized around movement concepts, technical topics w
  - Why Java?
  - Why Kinect v2? [v1 versus v2](http://zugara.com/how-does-the-kinect-2-compare-to-the-kinect-1)
 
-##Pathways
+## Pathways
 How does the ability to visualize pathways change them?
 - What defines a path? Forsythe: [Avoidance](https://www.youtube.com/watch?v=cqGyFiEXXIQ) | [Line](https://www.youtube.com/watch?v=aOd0PtgS8KU)
 - Unison v. Dialogue | [Body Navigation](http://ole.kristensen.name/works/body-navigation/)
