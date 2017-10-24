@@ -252,7 +252,7 @@ We will evaluate the strengths and weaknesses of the various sensing technologie
 The course is intended both for anyone looking to deepen their practice in working with movement-based interaction regardless of previous experience with movement technique or programming.
 
 As a result, there is no pre-requisite for dance and no pre-requisite for code.	  		  		  		  		  		  		  		  		  
-##Grading
+## Grading
 - 40% for showing up (on time!) and participating with curiosity and enthusiasm.
 - 10% for each topic study.
 - 20% for the final project.
