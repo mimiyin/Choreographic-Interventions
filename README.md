@@ -28,7 +28,7 @@ Because course topics are organized around movement concepts, technical topics w
 - Deconstructing choreography into parameters for code.
 - Extracting choreographic ideas from code.
 
-###Resources
+### Resources
 - [Download Processing](https://www.processing.org/download/)
 - [Learning Processing 2nd Edition - The Book](http://learningprocessing.com/) by Dan Shiffman
 - [Learning Processing - Videos](http://learningprocessing.com/videos/)
@@ -40,7 +40,7 @@ Because course topics are organized around movement concepts, technical topics w
 - [Forsythe Technique Videos on Youtube](https://www.youtube.com/user/GrandpaSafari/videos)
 - More to come!
 
-###Dance students checking stuff out of ITP ER:
+### Dance students checking stuff out of ITP ER:
    - Check it out under my name
    - Bring your NYU ID
    - netid
@@ -48,7 +48,7 @@ Because course topics are organized around movement concepts, technical topics w
 
 ## Week 1: Introduction + Pathways
 
-###The [dramaturgy](https://en.wikipedia.org/wiki/Dramaturgy) of numbers.
+### The [dramaturgy](https://en.wikipedia.org/wiki/Dramaturgy) of numbers.
 - What is the dramatic content in numbers?
    - [The Myth of Sisyphus](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)
    - [Zeno's Paradox](http://platonicrealms.com/encyclopedia/zenos-paradox-of-the-tortoise-and-achilles)
