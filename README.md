@@ -208,7 +208,7 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 - Read and [watch videos](http://learningprocessing.com/videos/) for Learning Processing Chapter 9 on Arrays
 - Read about [2D Arrays](https://processing.org/tutorials/2darray/)
 
-##Timing + Pacing
+## Timing + Pacing
 - Rhythm v. Tempo, Timing v. Pacing
 - Coding metronomes
 - Building polyrhythyms
@@ -216,9 +216,9 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 - Graphing pacing
 - Code: Modulo
 
-#####Example in-class improvs: [Human metronomes](https://www.youtube.com/watch?v=QCp7bL-AWvw)
+##### Example in-class improvs: [Human metronomes](https://www.youtube.com/watch?v=QCp7bL-AWvw)
 
-#####Topic Study: Build a polyrhythm.
+##### Topic Study: Build a polyrhythm.
 
 ##### Week 9 Reading
 - Read pgs. 36-42 (Tempo and Duration) 147-149 (Jo Ha Kyu) of [The Viewpoints Book](http://www.amazon.com/The-Viewpoints-Book-Practical-Composition/dp/1559362413) | 
@@ -229,7 +229,7 @@ Translating	movement	into	non-visual	media:	Sound	and	Text
 - Mapping "gesture" to text.
 - Live image processing: Slit-scan, difference, mirrors.
 
-#####Topic Study: Create a conversation between movement and sound or text.
+##### Topic Study: Create a conversation between movement and sound or text.
 
 ## Project Development: Weeks 11, 12, 13
 
