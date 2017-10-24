@@ -223,7 +223,7 @@ Points, lines and curves. Bodies as architecture. Moving in relation to architec
 ##### Week 9 Reading
 - Read pgs. 36-42 (Tempo and Duration) 147-149 (Jo Ha Kyu) of [The Viewpoints Book](http://www.amazon.com/The-Viewpoints-Book-Practical-Composition/dp/1559362413) | 
 
-##Sound + Text + Live Image Processing
+## Sound + Text + Live Image Processing
 Translating	movement	into	non-visual	media:	Sound	and	Text
 - Mapping movement to sound.
 - Mapping "gesture" to text.
