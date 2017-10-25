@@ -248,7 +248,7 @@ Using computer vision and a broad range of media from graphics and video, to sou
 
 We will evaluate the strengths and weaknesses of the various sensing technologies available to us today. What is the delta between what we can see and feel (strength, hardness, contortion) and what a computer can see and interpret (locations, contours, velocity, acceleration)?
 
-## Pre-requesites
+## Pre-requisites
 The course is intended both for anyone looking to deepen their practice in working with movement-based interaction regardless of previous experience with movement technique or programming.
 
 As a result, there is no pre-requisite for dance and no pre-requisite for code.	  		  		  		  		  		  		  		  		  
