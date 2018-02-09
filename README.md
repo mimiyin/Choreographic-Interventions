@@ -1,4 +1,4 @@
-# Syllabus - Work in Progress
+# Syllabus
 
 - Spring 2016, Mondays, 7PM-9:30PM in Studio 1 @[111 2nd Avenue](https://goo.gl/maps/FfVoDSMxNSN2) 
 - Mimi Yin, mimi.yin@nyu.edu
